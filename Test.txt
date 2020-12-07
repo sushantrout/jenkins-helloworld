@@ -1,0 +1,12 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 36C4-309C
+
+ Directory of D:\Devoops\JavaProject
+
+07-12-2020  05.07 PM    <DIR>          .
+07-12-2020  05.07 PM    <DIR>          ..
+07-12-2020  05.06 PM               910 HelloWorld.class
+07-12-2020  04.29 PM               154 HelloWorld.java
+07-12-2020  05.07 PM                 0 Test.txt
+               3 File(s)          1,064 bytes
+               2 Dir(s)  852,699,873,280 bytes free
